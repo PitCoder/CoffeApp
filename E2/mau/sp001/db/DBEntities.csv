@@ -1,0 +1,77 @@
+id,type,name,elementdescriptor
+Persona,Entidad,Persona,NULL
+Persona.nombre,Atributo,Nombre,NULL
+Persona.primerApellido,Atributo,Primer Apellido,NULL
+Persona.segundoApellido,Atributo,Segundo Apellido,NULL
+Persona.foto,Atributo,Foto,NULL
+Cuenta,Entidad,Cuenta,NULL
+Cuenta.nombreDeUsuario,Atributo,Nombre de Usuario,NULL
+Cuenta.correoElectronico,Atributo,Correo Electr\IeC {\'o}nico,NULL
+Cuenta.contrasena,Atributo,Contrase\IeC {\~n}a,NULL
+Cuenta.fechaDeCreacion,Atributo,Fecha de Creaci\IeC {\'o}n,NULL
+EstadoDeCuenta,Entidad,Estado de Cuenta,NULL
+EstadoDeCuenta.nombreDeEstado,Atributo,Nombre de Estado,NULL
+Acceso,Entidad,Acceso,NULL
+Acceso.fechaDeUltimoAcceso,Atributo,fechaDeUltimoAcceso,NULL
+Acceso.numeroIntentos,Atributo,N\IeC {\'u}mero de Intentos,NULL
+cliente,Entidad,Cliente,NULL
+Orden,Entidad,Orden,NULL
+Orden.fechaOrden,Atributo,Fecha de la Orden,NULL
+Orden.fechaUltimaActualizacion,Atributo,Fecha Ultima Actualizacion,NULL
+Orden.stConfirmacion,Atributo,Estado de Confirmaci\IeC {\'o}n,NULL
+Orden.stPrioridad,Atributo,Estado de Prioridad,NULL
+colaEspera,Entidad,Cola de Espera,NULL
+colaEspera.fechaCola,Atributo,Fecha de Cola,NULL
+colaEspera.ultimaActualizacion,Atributo,Fecha Ultima Actualizacion,NULL
+estadoOrden,Entidad,Estado de Orden,NULL
+estadoOrden.nombreEstado,Atributo,Nombre del Estado,NULL
+tipoOrden,Entidad,Tipo de Orden,NULL
+tipoOrden.nombreTipo,Atributo,Nombre del Tipo,NULL
+ordenAtencion,Entidad,Orden en Atenci\IeC {\'o}n,NULL
+estadoOrdenAtencion,Entidad,Estado de Orden en Atenci\IeC {\'o}n,NULL
+estadoOrdenAtencion.nombreEstado,Atributo,Nombre del Estado,NULL
+productoOrden,Entidad,Producto en Orden,NULL
+productoOrden.comentario,Atributo,Comentario,NULL
+productoOrden.comentarioCalificacion,Atributo,Comentario de Calificaci\IeC {\'o}n,NULL
+productoOrden.nuRating,Atributo,Numero Rating,NULL
+due\IeC {\~n}o,Entidad,Due\IeC {\~n}o,NULL
+estadoProducto,Entidad,Estado de Producto,NULL
+estadoProducto.nombreEstado,Atributo,Nombre de Estado,NULL
+cafeteria,Entidad,Cafeter\IeC {\'\i }a,NULL
+cafeteria.nombreCafeteria,Atributo,Nombre de Cafeteria,NULL
+tipoProducto,Entidad,Tipo Producto,NULL
+tipoProducto.tipo,Atributo,Tipo,NULL
+producto,Entidad,Producto,NULL
+producto.nombreProducto,Atributo,Nombre del Producto,NULL
+producto.nuPrecioVenta,Atributo,Precio de Venta,NULL
+producto.nuPrecioCompra,Atributo,Precio de Compra,NULL
+estadoLocal,Entidad,Estado del Local,NULL
+estadoLocal.nombreEstado,Atributo,Nombre del Estado,NULL
+local,Entidad,Local,NULL
+local.nombreLocal,Atributo,Nombre del Local,NULL
+local.nuRating,Atributo,Rating,NULL
+local.nuLongitud,Atributo,Longitud,NULL
+local.nuLatitud,Atributo,Latitud,NULL
+local.foto,Atributo,Foto,NULL
+local.horaInicio,Atributo,Hora de Inicio,NULL
+local.horaFin,Atributo,Hora de Fin,NULL
+productoLocal,Entidad,Producto del Local,NULL
+empleado,Entidad,Empleado,NULL
+responsable,Entidad,Responsable,NULL
+estadoProductoLocal,Entidad,Estado Producto de Local,NULL
+estadoProductoLocal.nombreEstado,Atributo,Nombre del Estado,NULL
+productoPaquete,Entidad,Producto en Paquete,NULL
+paquete,Entidad,Paquete,NULL
+tipoFormaPago,Entidad,Tipo de Forma de Pago,NULL
+tipoFormaPago.nombreTipo,Atributo,Nombre del Tipo,NULL
+paypal,Entidad,Paypal,NULL
+paypal.correoElectronico,Atributo,Correo Electronico,NULL
+paypal.contrase\IeC {\~n}a,Atributo,Contrase\IeC {\~n}a,NULL
+formaPago,Entidad,Forma de Pago,NULL
+efectivo,Entidad,Efectivo,NULL
+tarjeta,Entidad,Tarjeta,NULL
+tarjeta.numeroTarjeta,Atributo,Numero de Tarjeta,NULL
+tarjeta.fechaVencimiento,Atributo,Fecha de Vencimiento,NULL
+tarjeta.claveSeguridad,Atributo,Clave de Seguridad,NULL
+tipoTarjeta,Entidad,Tipo de Tarjeta,NULL
+tipoTarjeta.nombreTipo,Atributo,Nombre del Tipo,NULL

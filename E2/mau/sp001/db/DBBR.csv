@@ -1,0 +1,11 @@
+id,type,name,elementdescriptor
+BR001,Regla de Negocio,Campos obligatorios,NULL
+BR002,Regla de Negocio,Informaci\IeC {\'o}n correcta,NULL
+BR003,Regla de Negocio,Eliminaci\IeC {\'o}n l\IeC {\'o}gica de elementos,NULL
+BR004,Regla de Negocio,Unicidad de elementos,NULL
+BR-MAU001,Regla de Negocio,N\IeC {\'u}mero m\IeC {\'a}ximo de intentos,NULL
+BR-MAU002,Regla de Negocio,Sesi\IeC {\'o}n activa,NULL
+BR-MAU003,Regla de Negocio,Contrase\IeC {\~n}a v\IeC {\'a}lida,NULL
+BR-MC005,Regla de Negocio,Calificaci\IeC {\'o}n de un producto,NULL
+BR-MC007,Regla de Negocio,Notificaciones,NULL
+BR-MC008,Regla de Negocio,Clasificaci\IeC {\'o}n de notificaciones,NULL

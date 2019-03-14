@@ -1,0 +1,20 @@
+id,type,name,elementdescriptor
+MSG1,Mensaje,Operaci\IeC {\'o}n Exitosa,NULL
+MSG2,Mensaje,Operaci\IeC {\'o}n Fallida,NULL
+MSG3,Mensaje,Elementos No Disponibles,NULL
+MSG4,Mensaje,Duplicado de Informaci\IeC {\'o}n,NULL
+MSG5,Mensaje,Falta dato obligatorio,NULL
+MSG6,Mensaje,Formato de campo incorrecto,NULL
+MSG7,Mensaje,Eliminar elemento,NULL
+MSG8,Mensaje,Longitud de campo incorrecta,NULL
+MSG9,Mensaje,No existe informaci\IeC {\'o}n necesaria en el sistema,NULL
+MSG10,Mensaje,Confirmaci\IeC {\'o}n de operaci\IeC {\'o}n,NULL
+MSG11,Mensaje,Campo vacio,NULL
+MSGMAU1,Mensaje,El nombre de usuario no posee cuenta una cuenta asociada,NULL
+MSGMAU2,Mensaje,La contrasena insertada no coincide con la cuenta asociada,NULL
+MSGMAU3,Mensaje,La cuenta posee el estado bloqueado,NULL
+MSGMAU4,Mensaje,Nombre de usuario con cuenta ya asociada,NULL
+MSGMOR1,Mensaje,Geolocalizaci\IeC {\'o}n Inhabilitada,NULL
+MSGMOR2,Mensaje,No hay locales cerca,NULL
+MSGMOR3,Mensaje,Ubicaci\IeC {\'o}n No Exacta,NULL
+MSGMOR4,Mensaje,Cuenta No Encontrada,NULL

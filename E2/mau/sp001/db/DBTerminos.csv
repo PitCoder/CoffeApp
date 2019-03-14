@@ -1,0 +1,15 @@
+id,type,name,elementdescriptor
+bCafeteria,Term,Cafeteria,NULL
+bConfirmacionDePedido,Term,Confirmaci\IeC {\'o}n de Pedido,NULL
+bMenu,Term,Men\IeC {\'u},NULL
+bMenuDelDia,Term,Men\IeC {\'u} del D\IeC {\'\i }a,NULL
+bPagoConTarjeta,Term,Pago con tarjeta,NULL
+bPagoEnCaja,Term,Pago en Caja,NULL
+bPaquete,Term,Paquete,NULL
+bPedido,Term,Pedido,NULL
+bProducto,Term,Producto,NULL
+bPromocion,Term,Promoci\IeC {\'o}n,NULL
+bTiempoDeEspera,Term,Tiempo de Espera,NULL
+bTiempoDeRespuesta,Term,Tiempo de Respuesta,NULL
+bTipoDePedido,Term,Tipo de Pedido,NULL
+bTipoDeProducto,Term,Tipo de Producto,NULL

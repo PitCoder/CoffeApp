@@ -1,0 +1,7 @@
+id,type,name,elementdescriptor
+CUMAU1,CU,Iniciar Sesi\IeC {\'o}n,NULL
+CUMA1.1,CU,Registrar Nueva Cuenta de Usuario,NULL
+CUMP2.1,CU,Administrar formas de pago,NULL
+CUMP2.1.1,CU,Agregar Nueva Forma de Pago,NULL
+CUMP2.1.2,CU,Eliminar forma de pago,NULL
+CUMC2.2,CU,Consultar notificaciones,NULL

@@ -1,0 +1,16 @@
+id,type,name,elementdescriptor
+MN01,IU,Men\IeC {\'u} del Cliente,NULL
+MN01A,IU,Men\IeC {\'u} para Administrar la Cuenta del Cliente,NULL
+IUMAU1,IU,Iniciar Sesi\IeC {\'o}n ,NULL
+IUMAU1A,IU,Iniciar Sesi\IeC {\'o}n con Facebook,NULL
+IUMAU1B,IU,Iniciar Sesi\IeC {\'o}n con Gmail,NULL
+IUMAU1.1,IU,Registrar Nueva Cuenta de Usuario,NULL
+IUMC3,IU,Consultar Locales,NULL
+IUMP2.1,IU,Administrar Formas de Pago,NULL
+IUMC3,IU,Consultar Locales,NULL
+IUMC3.1,IU,Consultar Informaci\IeC {\'o}n de Local,NULL
+IUMC3.2,IU,Consultar Lista de Productos,NULL
+IUMP2.1.1A,IU,Consultar Formas de Pago,NULL
+IUMP2.1.1B,IU,Elije una forma de pago,NULL
+IUMP2.1.1C,IU,Iniciar sesi\IeC {\'o}n con Paypal,NULL
+IUMP2.1.1D,IU,Agregar tarjeta,NULL

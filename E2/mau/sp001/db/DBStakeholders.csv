@@ -1,0 +1,8 @@
+id,type,name,elementdescriptor
+Persona,Stakeholder,Persona,NULL
+Jefe,Stakeholder,Jefe,NULL
+ResponsableDeLocal,Stakeholder,Responsable de Local,NULL
+Cliente,Stakeholder,Cliente,NULL
+Cocinero,Stakeholder,Cocinero,NULL
+Cajero,Stakeholder,Cajero,NULL
+Agente,Stakeholder,Agente,NULL
