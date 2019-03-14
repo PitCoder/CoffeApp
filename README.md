@@ -1,1 +1,1 @@
-# CoffeApp
+# CoffeeApp
