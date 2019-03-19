@@ -3,5 +3,5 @@
 > This repository contains the software engineering process of an Android application named "Coffee App". All topics viewed during the Application Development for Mobile Devices course 2018-2 ESCOM IPN are covered.
 
 <p align="center">
-  <img src="https://github.com/PitCoder/CoffeeApp/blob/master/Index.jpg?s=200&v=2" alt="Index"/>
+  <img src="https://github.com/PitCoder/CoffeeApp/blob/master/Index.jpg?s=200&v=2" alt="Index" width="320" height="480"/>
 </p>
